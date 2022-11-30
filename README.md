@@ -1,5 +1,5 @@
 
-<h3 align="left">Story Every Day</h3>
+<h3 align="left">Story Every Day | قصة كل يوم</h3>
 <p>
   The application presents stories and tales for all ages.
 There are many and varied sections in it. The application enjoys multiple advantages and is updated every period. 
