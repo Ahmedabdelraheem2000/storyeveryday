@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_story"
+    app:startDestination="@id/splashScreenFragment">
+
+    <fragment
+        android:id="@+id/splashScreenFragment"
+        android:name="com.halawy.Story.ui.StoryActivity.ActivityStory.SplashScreenFragment"
+        android:label="fragment_splashscreen"
+        tools:layout="@layout/fragment_splashscreen" >
+
+        <action
+            android:id="@+id/action_splashScreenFragment_to_fragmentHome"
+            app:destination="@id/fragmentHome"
+            app:popUpTo="@id/splashScreenFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentHome"
+        android:name="com.halawy.Story.ui.StoryActivity.ActivityStory.FragmentHome"
+        android:label="homefragment"
+        tools:layout="@layout/fragmenthome" >
+        <action
+            android:id="@+id/action_fragmentHome_to_fragmentStory"
+            app:destination="@id/fragmentStory" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentStory"
+        android:name="com.halawy.Story.ui.StoryActivity.ActivityStory.FragmentStory"
+        android:label="FragmentStory" >
+        <action
+            android:id="@+id/action_fragmentStory_to_fragmentHome"
+            app:destination="@id/fragmentHome"
+            app:popUpTo="@id/fragmentStory"
+            app:popUpToInclusive="false" />
+    </fragment>
+</navigation>

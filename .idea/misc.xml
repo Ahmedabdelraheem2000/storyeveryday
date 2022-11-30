@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/drawable/back.xml" value="0.231" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/activitystory.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/fragment_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/fragment_story.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/fragmenthome.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/fragmentshowstory.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/item_category.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/itemstory.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/shimmer_category.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/3/app/src/main/res/layout/shimmer_story.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/activitystory.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/fragment_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/fragment_story.xml" value="0.176" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/fragmenthome.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/item_category.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/itemstory.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/shimmer_category.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/layout/shimmer_story.xml" value="0.25" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Users/20109/AndroidStudioProjects/4/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
